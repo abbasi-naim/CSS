@@ -2,3 +2,24 @@ p{
     color: azure;
     background-color: black;
 }
+
+h1{
+    color: chartreuse;
+    background-color: black;
+    font-size: smaller;
+}
+
+#div{
+    color: red;
+    background-color: blue;
+    font-size: x-large;
+}
+
+.first{
+    color: chocolate;
+}
+
+#dec .sec em{
+    color: darkgreen;
+    background-color: darkseagreen;
+}
