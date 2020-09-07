@@ -24,3 +24,7 @@ h1{
     background-color: darkseagreen;
     /*this a way of styling*/
 }
+
+.serif{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
