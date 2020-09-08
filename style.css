@@ -70,3 +70,10 @@ h4{
 .textverbot{
     vertical-align: bottom;
 }
+.textdecoration{
+    text-decoration: overline;
+    color: black;
+    background-color: white;
+    /*there are four text decoration: 1-none
+    2-inherit   3-overline  4- underline  5-line-through */
+}
