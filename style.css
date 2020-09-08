@@ -178,5 +178,13 @@ nav ul li a {
      font-style: italic;
      color:green;
     /* content: url(../Html-Sololearn/Assets/pix1.jpg);*/
-    
+
+ }
+ @font-face{
+     font-family: monospace;
+     src: url('monospace.otf');
+     
+ }
+ .hh1{
+     font-family:monospace;
  }
