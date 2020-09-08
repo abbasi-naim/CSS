@@ -114,3 +114,8 @@ h4{
     /*table caption*/
     table-layout: auto; /*important*/
 }
+a:hover {
+    color: red;
+    /*visited  active*/
+    
+ }
