@@ -82,4 +82,5 @@ h4{
     color: black;
     background-color: white;
     text-shadow: 5px 2px 4px grey;
+    text-transform: capitalize; /*text transform makes the text first letters to capitalize*/
 }
