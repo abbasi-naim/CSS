@@ -42,4 +42,8 @@ h1{
     background-color: chartreuse;
     color: black;
     font-weight: bolder;
+    
+}
+.fontvary{
+    font-variant: small-caps;
 }
