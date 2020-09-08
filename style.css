@@ -9,11 +9,11 @@ h1{
     font-size: smaller;
 }
 
-#div{
+/*#div{
     color: red;
     background-color: blue;
     font-size: x-large;
-}
+}*/
 
 .first{
     color: chocolate;
@@ -195,3 +195,10 @@ nav ul li a {
    color:rgb(white, green, blue);
    /*background: repeating-radial-gradient(red,green,blue);*/
  }
+
+ #first1 {
+    border: 2px dotted black;
+    padding: 20px;
+    background: LightBlue;
+    background-clip: padding-box;
+}
