@@ -100,4 +100,12 @@ h4{
     /*background-repeat: repeat-x;
     background-repeat: repeat-y;*/
    /* background-attachment: fixed;*/
+   
+}
+.liststyle{
+    list-style-type: lower-alpha;
+    background-color: white;
+    color: black;
+    /*list-style-image: url("..//Html-Sololearn/Assets/pix1.jpg");*/
+    list-style-position: inside;
 }
