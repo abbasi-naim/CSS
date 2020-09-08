@@ -71,7 +71,7 @@ h4{
     vertical-align: bottom;
 }
 .textdecoration{
-    text-decoration: overline;
+    text-decoration: line-through;
     color: black;
     background-color: white;
     /*there are four text decoration: 1-none
