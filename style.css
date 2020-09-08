@@ -47,3 +47,12 @@ h1{
 .fontvary{
     font-variant: small-caps;
 }
+h6{
+    color: lawngreen;
+}
+h5{
+    color: #000000;
+}
+h4{
+    color: rgb(white, green, blue);
+}
