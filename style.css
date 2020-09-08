@@ -86,3 +86,6 @@ h4{
     there is uppercase and lowercase features*/
     letter-spacing: 1cm;
 }
+.wordspace{
+    word-spacing: 1cm;
+}
