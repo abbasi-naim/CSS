@@ -56,3 +56,17 @@ h5{
 h4{
     color: rgb(white, green, blue);
 }
+
+.textalign{
+    text-align: right;
+}
+
+.textvertop{
+    vertical-align: top;
+}
+.textvercent{
+    vertical-align: middle;
+}
+.textverbot{
+    vertical-align: bottom;
+}
