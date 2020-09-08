@@ -109,3 +109,7 @@ h4{
     /*list-style-image: url("..//Html-Sololearn/Assets/pix1.jpg");*/
     list-style-position: inside;
 }
+.tablecaption{
+    caption-side: top;
+    /*table caption*/
+}
