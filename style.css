@@ -134,6 +134,7 @@ a:hover {
 
 body {
     background:url("http://www.sololearn.com/images/bg2.jpg");
+    opacity: 0.5;
 }
 nav {
     padding: 50px 0;
