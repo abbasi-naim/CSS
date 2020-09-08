@@ -193,4 +193,5 @@ nav ul li a {
    /*  background: linear-gradient(darkgreen,white);*/
    background: linear-gradient(red,pink,orange,yellow,black,green,white,blue);
    color:rgb(white, green, blue);
+   /*background: repeating-radial-gradient(red,green,blue);*/
  }
