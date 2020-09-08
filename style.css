@@ -112,4 +112,5 @@ h4{
 .tablecaption{
     caption-side: top;
     /*table caption*/
+    table-layout: auto; /*important*/
 }
