@@ -172,3 +172,11 @@ nav ul li a {
      font-style: oblique;
      
  }
+
+ .befortest::before{
+     
+     font-style: italic;
+     color:green;
+    /* content: url(../Html-Sololearn/Assets/pix1.jpg);*/
+    
+ }
