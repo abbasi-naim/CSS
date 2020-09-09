@@ -248,5 +248,6 @@ div {
     height: 50px;
     /*filter: grayscale(100%);*/
     /*filter:sepia(100%);*/
-    filter: saturate(50%);
+   /* filter: saturate(50%);*/
+   filter: hue-rotate(100deg);
 }
