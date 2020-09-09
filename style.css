@@ -249,5 +249,6 @@ div {
     /*filter: grayscale(100%);*/
     /*filter:sepia(100%);*/
    /* filter: saturate(50%);*/
-   filter: hue-rotate(100deg);
+   /*filter: hue-rotate(0deg);*/
+   filter: invert(20%);
 }
