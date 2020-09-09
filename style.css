@@ -254,7 +254,9 @@ div {
     /* filter: opacity(75%); */
     /* filter: brightness(25%); */
     /* filter: contrast(60%); */
-    filter: blur(55%);
+    /* filter: blur(55%); */
+    /* using multiple filter */
+    filter: blur(20%) hue-rotate(20%) grayscale(10%) ;
 
 }
 
