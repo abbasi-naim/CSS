@@ -251,5 +251,7 @@ div {
    /* filter: saturate(50%);*/
    /*filter: hue-rotate(0deg);*/
     /* filter: invert(20%); */
-    filter: opacity(75%);
+    /* filter: opacity(75%); */
+    filter: brightness(25%);
 }
+
