@@ -222,6 +222,7 @@ div {
     animation-duration: 1s;
     -webkit-animation-name: colorchange;
     -webkit-animation-duration: 1s;
+    animation-iteration-count: 5;
 }
 /*@keyframes colorchange {
     0% {background-color: red; }
