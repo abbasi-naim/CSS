@@ -253,7 +253,8 @@ div {
     /* filter: invert(20%); */
     /* filter: opacity(75%); */
     /* filter: brightness(25%); */
-    filter: contrast(60%);
+    /* filter: contrast(60%); */
+    filter: blur(55%);
 
 }
 
